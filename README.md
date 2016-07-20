@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Hey! I'm Juan. I like painting and playing with my dog.
